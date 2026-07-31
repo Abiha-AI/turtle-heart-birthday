@@ -20,7 +20,7 @@
 
 *(Add your screenshot here — see the "Adding a Preview Image" section below)*
 
-![Heart Preview](preview.png)
+![Heart Preview](preview.JPG)
 
 </div>
 
