@@ -81,14 +81,6 @@ The script loops `t` from `0` to `2π` in small increments, computes `(x, y)` fo
 
 ---
 
-## 🖼️ Adding a Preview Image
-
-1. Run the script and screenshot the drawn heart.
-2. Drop the image (e.g. `preview.png`) into your repo folder next to `heart.py`.
-3. It'll automatically show up at the top of this README, since it already links to `preview.png`.
-
----
-
 ## 📄 File Structure
 
 ```
