@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Turtle Graphics](https://img.shields.io/badge/Turtle-Graphics-FF69B4?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-💗-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-2ECC71?style=for-the-badge)
+
 
 </div>
 
