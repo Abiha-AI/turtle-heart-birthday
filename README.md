@@ -105,8 +105,7 @@ No `pip install` required — everything used here ships with Python. 🎉
 
 ## 🤝 Contributing
 
-Feel free to fork this repo and customize it for your own occasions — birthdays, anniversaries, Valentine's Day, or just for fun. Pull requests for new shapes, animations, or color themes are always welcome! 🌟
-
+Feel free to fork this repo and customize it for your own occasions birthdays, anniversaries, Valentine's Day, or just for fun. 
 
 <div align="center">
 
